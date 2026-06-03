@@ -39,7 +39,7 @@ candidate:
 
 sources:
   - name: "Linkedln"
-    url: "https://www.linkedin.com/jobs/"
+    url: "https://www.linkedin.com/jobs"
     category: "general"
     freshness_days: 60
     include_patterns:
